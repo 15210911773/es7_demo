@@ -1,0 +1,5 @@
+elasticsearch:
+  cluster-nodes: 10.122.189.25:9200,10.122.189.26:9200,10.122.189.27:9200
+  username: elastic
+  password: Ug4cF84w2q9OnK7rTRJs
+  index: customer
